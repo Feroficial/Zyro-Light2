@@ -38,13 +38,13 @@ const { chain } = lodash
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
-console.log(chalk.magentaBright('\nIniciando MaycolPlus...'))
-say('MaycolPlus', {
+console.log(chalk.magentaBright('\nIniciando Zyro litgh...'))
+say('Zyro litgh', {
 font: 'block',
 align: 'center',
 gradient: ['grey', 'white']
 })
-say('Hecho por SoyMaycol', {
+say('Hecho por Fer y Adrian', {
 font: 'console',
 align: 'center',
 colors: ['cyan', 'magenta', 'yellow']
