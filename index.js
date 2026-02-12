@@ -44,7 +44,7 @@ font: 'block',
 align: 'center',
 gradient: ['grey', 'white']
 })
-say('Hecho por Fer y Adrian', {
+say('Hecho por Fer y felipe', {
 font: 'console',
 align: 'center',
 colors: ['cyan', 'magenta', 'yellow']
